@@ -34,4 +34,4 @@ function makeGrid(x, y) {
 $('input').on('click', function(){
 	$('body').css('background-color', '#FFD2F2')
 });
-});
+})
